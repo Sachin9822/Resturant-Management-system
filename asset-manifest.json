@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Resturant-Management-system/static/css/main.87c6b38b.chunk.css",
-    "main.js": "/Resturant-Management-system/static/js/main.a40db174.chunk.js",
-    "main.js.map": "/Resturant-Management-system/static/js/main.a40db174.chunk.js.map",
-    "runtime-main.js": "/Resturant-Management-system/static/js/runtime-main.68bc5d68.js",
-    "runtime-main.js.map": "/Resturant-Management-system/static/js/runtime-main.68bc5d68.js.map",
-    "static/css/2.f4c56af9.chunk.css": "/Resturant-Management-system/static/css/2.f4c56af9.chunk.css",
-    "static/js/2.03da1e74.chunk.js": "/Resturant-Management-system/static/js/2.03da1e74.chunk.js",
-    "static/js/2.03da1e74.chunk.js.map": "/Resturant-Management-system/static/js/2.03da1e74.chunk.js.map",
-    "index.html": "/Resturant-Management-system/index.html",
-    "static/css/2.f4c56af9.chunk.css.map": "/Resturant-Management-system/static/css/2.f4c56af9.chunk.css.map",
-    "static/css/main.87c6b38b.chunk.css.map": "/Resturant-Management-system/static/css/main.87c6b38b.chunk.css.map",
-    "static/js/2.03da1e74.chunk.js.LICENSE.txt": "/Resturant-Management-system/static/js/2.03da1e74.chunk.js.LICENSE.txt",
-    "static/media/dinner_table.ca95be00.png": "/Resturant-Management-system/static/media/dinner_table.ca95be00.png",
-    "static/media/green_dinner_table.914e5a77.png": "/Resturant-Management-system/static/media/green_dinner_table.914e5a77.png"
+    "main.css": "/Resturant_Management_system/static/css/main.87c6b38b.chunk.css",
+    "main.js": "/Resturant_Management_system/static/js/main.35c2dc9d.chunk.js",
+    "main.js.map": "/Resturant_Management_system/static/js/main.35c2dc9d.chunk.js.map",
+    "runtime-main.js": "/Resturant_Management_system/static/js/runtime-main.bcd904c8.js",
+    "runtime-main.js.map": "/Resturant_Management_system/static/js/runtime-main.bcd904c8.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/Resturant_Management_system/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.051aca57.chunk.js": "/Resturant_Management_system/static/js/2.051aca57.chunk.js",
+    "static/js/2.051aca57.chunk.js.map": "/Resturant_Management_system/static/js/2.051aca57.chunk.js.map",
+    "index.html": "/Resturant_Management_system/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/Resturant_Management_system/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.87c6b38b.chunk.css.map": "/Resturant_Management_system/static/css/main.87c6b38b.chunk.css.map",
+    "static/js/2.051aca57.chunk.js.LICENSE.txt": "/Resturant_Management_system/static/js/2.051aca57.chunk.js.LICENSE.txt",
+    "static/media/dinner_table.ca95be00.png": "/Resturant_Management_system/static/media/dinner_table.ca95be00.png",
+    "static/media/green_dinner_table.914e5a77.png": "/Resturant_Management_system/static/media/green_dinner_table.914e5a77.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.68bc5d68.js",
+    "static/js/runtime-main.bcd904c8.js",
     "static/css/2.f4c56af9.chunk.css",
-    "static/js/2.03da1e74.chunk.js",
+    "static/js/2.051aca57.chunk.js",
     "static/css/main.87c6b38b.chunk.css",
-    "static/js/main.a40db174.chunk.js"
+    "static/js/main.35c2dc9d.chunk.js"
   ]
 }

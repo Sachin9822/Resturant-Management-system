@@ -1,5 +1,5 @@
 {
-  "homepage": "http://sachin9822.github.io/restu",
+  "homepage": "http://sachin9822.github.io/",
   "name": "res_management",
   "version": "0.1.0",
   "private": true,
@@ -20,6 +20,7 @@
     "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
     "react-toastify": "^8.0.3",
+    "save-dev": "^0.0.1-security",
     "styled-components": "^5.3.3",
     "web-vitals": "^1.1.2"
   },
